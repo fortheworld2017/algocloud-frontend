@@ -1,0 +1,166 @@
+.table .thead th {
+  background-color: var(--primary);
+  color: white;
+}
+
+.menu-nav {
+  background-color: #F4F4F4;
+  color: #a2a3b7;
+}
+
+.menu-logo a {
+  color: white;
+}
+
+.menu-li a {
+  color: #a2a3b7;
+}
+
+.menu-li a .icon,
+.menu-li.active a .icon,
+.menu-li:hover a,
+.menu-li:hover a .icon {
+  color: white;
+}
+
+.menu-li.active a {
+  color: white;
+  background-color: #23325D;
+}
+
+a.algocloud-navbar-brand{
+  color:#F8F8F8!important;
+}
+
+.bg-box {
+  background:#1E2D58;
+  background: rgba(255,255,255,.05);
+  box-shadow: 0px 0px 50px 14px rgb(18 28 53 / 3%);
+  border: 1px #eee solid;
+}
+
+.menu-toggle-button {
+  color: rgba(255,255,255,.3) !important
+}
+
+.content .breadcrumb {
+  background: none!important;
+  padding: 0px;
+}
+
+.content a {
+  color: rgba(255,255,255, 1)!important;
+}
+
+.content .breadcrumb-item.active li a {
+  color: rgba(255,255,255,1)!important;
+}
+
+h1 {
+  color: #23325D!important;
+}
+
+.btn-primary {
+  background: #E8EAEE!important;
+  border: none;
+  color: #23325D;
+}
+
+.btn-light {
+  border: 1px #23325D solid;
+  background: none;
+  color: #23325D;
+}
+
+.btn-light:hover {
+  color: #23325D!important;
+  background-color: #E8EAEE!important;
+  border-color: #dae0e5!important;
+}
+
+.btn-link {
+  color: #56C3BB;
+}
+
+.table .thead th {
+  background: #E8EAEE;
+  border: none;
+  color: #23325D;
+}
+
+.table th, .table td {
+  background: none;
+  color: #23325D;
+  border: none;
+  border-top:1px #2A3144 solid;
+  vertical-align: middle;
+}
+
+.filter-preview {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 10px;
+  color: #23325D;
+}
+
+.badge-success {
+  background-color: #56C3BB;
+  padding: 5px;
+  color: #23325D;
+}
+
+.user-dropdown-text {
+  color: #23325D;
+}
+
+.user-dropdown-text {
+  color: #23325D;
+}
+
+.user-dropdown-text-tenant {
+  color: #23325D !important;
+}
+
+.eYAYOD .btn {
+  margin-right: 8px;
+}
+
+.td-actions .btn-link {
+  color: #56C3BB;
+}
+
+.hfxUdS {
+  background: none;
+  border: none!important;
+  padding: 0px;
+  color: #23325D;
+}
+
+.btn.disabled, .btn:disabled {
+  opacity: .65;
+  border: 1px rgba(255,255,255,.4) solid;
+  color: #23325D;
+}
+
+.btn-outline-secondary {
+  color: #6c757d;
+  border-color: #6c757d;
+}
+
+.menu-li.active a {
+  background-color: white;
+  color: #23325D;
+}
+
+.menu-li.active a, .menu-li.active a .icon {
+  border-right: none;
+  color: #23325D!important;
+}
+
+a.algocloud-navbar-brand {
+  color: #23325D!important;
+}
+
+.menu-li a .icon, .menu-li.active a .icon, .menu-li:hover a, .menu-li:hover a .icon {
+  color: rgb(29, 46, 83, .15) !important;
+}

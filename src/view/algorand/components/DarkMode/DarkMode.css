@@ -1,0 +1,17 @@
+  
+  /* Custom Dark Mode Toggle Element */
+  
+  .toggle-theme-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-right: 0.5rem;
+  }
+
+  label.dropdown-item {
+    margin: 0px;
+}
+
+  .dropdown-item input {
+    display: none;
+  }
